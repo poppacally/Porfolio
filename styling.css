@@ -1,1 +1,69 @@
-body{font:100% Helvetica,san-serif;colour:#333}#navbar{background-color:#222;padding:100px}#titleCard{margin:0;padding-top:1000px;background-color:#75a3a3}
+body {
+
+}
+
+.container{
+    width: 100%;
+}
+
+#navbar {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+  background-color: #222;
+  padding: 20px;
+  border-style: none;
+}
+
+.embedContent {
+  text-align: center;
+}
+
+.testImageOne {
+  width: 200px;
+  height: 200px;
+}
+
+#sectionOne {
+    padding: 200px;
+    background-color: rgb(167, 92, 92);
+    text-align: center;
+}
+
+#sectionTwo {
+  padding: 100px;
+  background-color: rgb(208, 91, 91);
+  text-align: left;
+}
+
+#sectionTwoImage {
+  height: 100%;
+  width: 100%;
+}
+
+.sectionTwoTopContent {
+  text-align: center;
+  text-shadow: 2px, 2px, 1px, black;
+  text-decoration: underline;
+  padding-bottom: 80px;
+}
+
+
+#sectionThree {
+  padding: 100px;
+  background-color: rgb(56, 158, 202);
+  text-align: center;
+}
+
+#sectionOneTop {
+  align: center;
+  margin: 50, 50, 50 50;
+}
+
+#sectionTwoTop {
+
+}
+
+#sectionThreeTop {
+
+}
